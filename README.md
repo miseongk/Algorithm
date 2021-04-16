@@ -1,2 +1,2 @@
-# algorithm
-Algorithmic problem solving (Baekjoon Online Judge)
+# Algorithm
+Algorithm problem solving (Baekjoon Online Judge)
