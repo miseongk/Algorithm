@@ -1,4 +1,6 @@
 ## Level 1
-| No.   | problem                                                                         | code                                                                                      | source                       |
-|-------|---------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|------------------------------|
-| 72410 | [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)    | [📝](https://github.com/miseongk/Algorithm/blob/master/Programmers/Level/Level1/72410.py) | 2021 KAKAO BLIND RECRUITMENT |
+| No.   | Problem                                                                      | Code                                                                                      | Source                       |
+|-------|------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|------------------------------|
+| 72410 | [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410) | [📝](https://github.com/miseongk/Algorithm/blob/master/Programmers/Level/Level1/72410.py) | 2021 KAKAO BLIND RECRUITMENT |
+| 92334 | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)  | [📝](https://github.com/miseongk/Algorithm/blob/master/Programmers/Level/Level1/92334.py) | 2022 KAKAO BLIND RECRUITMENT |
+| 77484 | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) | [📝](https://github.com/miseongk/Algorithm/blob/master/Programmers/Level/Level1/77484.py) | 2021 Dev-Matching: 웹 백엔드 개발자(상반기)|
