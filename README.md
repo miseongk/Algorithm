@@ -1,7 +1,7 @@
 # ✏️ Algorithm Coding Test Practice
 
-> - [Baekjoon Online Judge](https://www.acmicpc.net/)
-> - [Programmers](https://programmers.co.kr/)
+> [Baekjoon Online Judge](https://www.acmicpc.net/) <br>
+> [Programmers](https://programmers.co.kr/)
 
 ## Baekjoon
 
@@ -14,4 +14,4 @@
 
 ## Note
 
-- [📚노트](https://github.com/miseongk/Algorithm/tree/master/Note)
+- [노트📚](https://github.com/miseongk/Algorithm/tree/master/Note)
