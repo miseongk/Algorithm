@@ -52,7 +52,8 @@
 
 ## Part 5. DP 문제풀이 강훈련 백준 문제 추천
 
-| No.   | Problem                                        | Code                                                                                 | Note | Example |
-| ----- | ---------------------------------------------- | ------------------------------------------------------------------------------------ | ---- | ------- |
-| 15486 | [퇴사2](https://www.acmicpc.net/problem/15486) | [📝](https://github.com/miseongk/Algorithm/blob/master/BAEKJOON/Part/Part5/15486.py) |      |         |
-| 1890  | [점프](https://www.acmicpc.net/problem/1890)   | [📝](https://github.com/miseongk/Algorithm/blob/master/BAEKJOON/Part/Part5/1890.py)  |      |         |
+| No.   | Problem                                                   | Code                                                                                 | Note | Example |
+| ----- | --------------------------------------------------------- | ------------------------------------------------------------------------------------ | ---- | ------- |
+| 15486 | [퇴사2](https://www.acmicpc.net/problem/15486)            | [📝](https://github.com/miseongk/Algorithm/blob/master/BAEKJOON/Part/Part5/15486.py) |      |         |
+| 1890  | [점프](https://www.acmicpc.net/problem/1890)              | [📝](https://github.com/miseongk/Algorithm/blob/master/BAEKJOON/Part/Part5/1890.py)  |      |         |
+| 15989 | [1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989) | [📝](https://github.com/miseongk/Algorithm/blob/master/BAEKJOON/Part/Part5/15989.py) |      |         |
