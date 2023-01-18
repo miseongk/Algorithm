@@ -24,8 +24,9 @@ def bfs(graph, start, visited):
 
         # 아직 방문하지 않은 인접한 원소들을 큐에 삽입
         for i in graph[v]:
-            queue.append(i)
-            visited[i] = True
+            if not visited[i]:
+                queue.append(i)
+                visited[i] = True
 
 # 각 노드가 연결된 정보를 표현 (2차원 리스트)
 graph = [
